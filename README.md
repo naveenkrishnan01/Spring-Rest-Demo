@@ -12,8 +12,8 @@
    Server used is TomCat-9.0
  
 ### Api end-points
-/spring-rest-demo/testapi/helloapp  -- Display Hello App
-/spring-rest-demo/api/rules     --   json data displayed
+- /spring-rest-demo/testapi/helloapp  -- Display Hello App
+- /spring-rest-demo/api/rules     --   json data displayed
 These end-points can be tested on POSTMAN when Tomcat server is up and running
 
      
